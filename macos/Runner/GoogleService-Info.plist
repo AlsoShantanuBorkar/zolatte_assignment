@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>779155206334-9vnskit7lkdd7du73etscp239o28tlp6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.779155206334-9vnskit7lkdd7du73etscp239o28tlp6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDoUFP8krkMchZx1Tp3GgmT5lD26tsTwuc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>779155206334</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.zolatteAssignment</string>
+	<key>PROJECT_ID</key>
+	<string>zolatte-assignment-ef40e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zolatte-assignment-ef40e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:779155206334:ios:67b6c1bd92aef6383caeef</string>
+</dict>
+</plist>
