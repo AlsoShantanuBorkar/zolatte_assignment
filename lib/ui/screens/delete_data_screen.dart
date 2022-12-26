@@ -14,7 +14,7 @@ class _DeleteDataScreenState extends State<DeleteDataScreen> {
   Widget build(BuildContext context) {
     final FirebaseService authInstance = Provider.of<FirebaseService>(context);
     return Scaffold(
-      appBar: AppBar(title: const Text("Logout")),
+      appBar: AppBar(title: const Text("Delete Data")),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
